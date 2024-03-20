@@ -9,6 +9,5 @@ public enum Score {
 			case LOSE : return "컴퓨터가 이겼습니다.";
 			case EQUAL : return "비겼습니다.";
 		} return "에러";
-	}
-	
+	}	
 }
