@@ -1,9 +1,5 @@
 package practice;
 
-//public enum Game {
-//	ROCK, PAPER, SCISSORS, ERROR;
-//}
-
 public enum Game {
 	ROCK(0), PAPER(1), SCISSORS(2), ERROR(-1);
 	
