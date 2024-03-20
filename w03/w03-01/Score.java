@@ -10,5 +10,4 @@ public enum Score {
 			case EQUAL : return "비겼습니다.";
 		} return "에러";
 	}
-	
 }
